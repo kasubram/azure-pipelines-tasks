@@ -17,6 +17,7 @@
         "AzureKeyVaultV1",
         "AzureMonitorAlertsV0",
         "AzureMonitorV0",
+        "AzureMonitorV1",
         "AzureMysqlDeploymentV1",
         "AzureNLBManagementV1",
         "AzurePolicyV0",
